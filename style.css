@@ -1,0 +1,14 @@
+.head{
+	text-align: center;
+	margin: auto;
+
+}
+
+.list{
+	margin: 150px;
+	width: 400px;
+	border: 2px solid black;
+}
+.add-btn{
+	display: inline;
+}
