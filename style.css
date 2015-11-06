@@ -28,7 +28,9 @@
 p{
 	text-align: center;
 }
-.removed{
-	text-decoration: line-through;
+.instruct{
+	list-style: none;
+	text-align: center;
 }
+
 
